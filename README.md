@@ -1,1 +1,1 @@
-# Multi-Temporal-Landslide-Mapping
+# Multi-Temporal-Landslide-Mapping-Nepal
