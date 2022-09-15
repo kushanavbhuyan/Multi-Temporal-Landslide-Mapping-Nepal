@@ -1,3 +1,4 @@
+# Code author: Lucas Soares (https://www.researchgate.net/profile/Lucas-Soares-25)
 
 import os
 from itertools import product
